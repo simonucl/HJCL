@@ -1,0 +1,8 @@
+cs	cs.pf	cs.cv	cs.ro	cs.sc	cs.hc	cs.ni	cs.lg	cs.ir	cs.ms	cs.ce	cs.ne	cs.sy	cs.dl	cs.dm	cs.cc	cs.ai	cs.pl	cs.lo	cs.gt	cs.cy	cs.si	cs.ds	cs.cg	cs.dc	cs.db	cs.cl	cs.it	cs.fl	cs.cr	cs.na	cs.mm	cs.ma	cs.se
+math	math.st	math.pr	math.lo	math.na	math.oc	math.it	math.nt	math.co
+stat	stat.me	stat.th	stat.ml	stat.ap
+physics	physics.soc-ph	physics.data-an
+cond-mat	cond-mat.stat-mech	cond-mat.dis-nn
+q-bio	q-bio.qm	q-bio.nc
+nlin	nlin.ao
+Root	cs	physics	math	cmp-lg	quant-ph	cond-mat	stat	nlin	q-bio
